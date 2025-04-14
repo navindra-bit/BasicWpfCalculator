@@ -31,13 +31,14 @@ git clone : https://github.com/navindra-bit/BasicWpfCalculator.git
 ```
 SimpleCalculatorWpf/
 │
-├── .gitignore                    # Git ignore file for unnecessary files
 ├── App.xaml                      # App configuration
 ├── App.xaml.cs                   # Application-level logic
 ├── MainWindow.xaml               # UI design (buttons, layout)
 ├── MainWindow.xaml.cs            # Code-behind for main window (logic)
-├── README.md                     # Project documentation
 ├── SimpleCalculatorWpf.csproj    # Project file
+├── .gitignore                    # Git ignore file for unnecessary files
+├── README.md                     # Project documentation
+
 ```
 ---
 
