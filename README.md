@@ -16,8 +16,8 @@ It supports simple arithmetic operations: **addition**, **subtraction**, **multi
 ## 🚀 Getting Started
 
 ### Requirements:
-- Visual Studio (any recent version)
-- .NET Framework (WPF-compatible)
+- Visual Studio (any recent version).
+- .NET Framework (WPF-compatible).
 
 ### To run:
 1. Clone the repository  
