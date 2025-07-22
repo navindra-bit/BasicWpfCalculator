@@ -6,10 +6,10 @@ It supports simple arithmetic operations: **addition**, **subtraction**, **multi
 ---
 
 ## 🛠 Features
-- Clean UI with buttons for digits and operations
-- Handles basic two-number calculations
-- Shows error for division by zero
-- Reset button to clear the calculation
+- Clean UI with buttons for digits and operations.
+- Handles basic two-number calculations.
+- Shows error for division by zero.
+- Reset button to clear the calculation.
 
 ---
 
