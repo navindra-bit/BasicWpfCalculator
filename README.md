@@ -20,10 +20,10 @@ It supports simple arithmetic operations: **addition**, **subtraction**, **multi
 - .NET Framework (WPF-compatible).
 
 ### To run:
-1. Clone the repository  
+1. Clone the repository.  
 git clone : https://github.com/navindra-bit/BasicWpfCalculator.git
-2. Open the solution in Visual Studio  
-3. Build and run the project
+2. Open the solution in Visual Studio.  
+3. Build and run the project.
 
 ---
 
